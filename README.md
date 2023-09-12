@@ -2,5 +2,6 @@
 
 Olá, Bem vindo ao meu livro de receitas :hand:
 
-- Stogronoff de frango
+- Strogronoff de frango
 
+- Pavê
